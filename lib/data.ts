@@ -83,17 +83,52 @@ export const PRODUCTS: Product[] = [
 
   // POLLO
   {
-    name: "Pollo Entero",
+    name: "Pollo Entero Tito",
+    image: "/products/pollo_entero_tito.png",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Pollo Entero Pollote",
+    image: "/products/pollo_entero_pollote.jpeg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Pollo Entero Norteño",
+    image: "/products/pollo_entero_norteño.jpeg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Pollo Entero San Antonio",
     image: "/products/pollo_entero.jpg",
     meat_type: "Pollo",
   },
   {
-    name: "Pollo Gallina",
+    name: "Gallina San Antonio",
     image: "/products/pollo_gallina.jpg",
     meat_type: "Pollo",
   },
   {
-    name: "Pechuga de Pollo",
+    name: "Pollo en Piezas Pollote",
+    image: "/products/pollote_mixto.jpg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Pollo Mixto San Antonio",
+    image: "/products/pollo_san_antonio_mixto.jpeg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Pollo Mixto Claripack Norteño",
+    image: "/products/pollo_norteño_claripack.jpeg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Mitades de Pollo Claripack Norteño",
+    image: "/products/pollo_mitades_norteño.jpeg",
+    meat_type: "Pollo",
+  },
+  {
+    name: "Filete de Pollo",
     image: "/products/pechuga_de_pollo.jpg",
     meat_type: "Pollo",
   },
